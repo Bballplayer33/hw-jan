@@ -7,7 +7,7 @@ Diving deeper I cleaned up redundant code, added hover functions and optimized h
 
 ## Usage
 
-![alt text](hover.png) ![alt text](hover-code.png)
+![alt text](/screens/hover.png) ![alt text](/screens/hover-code.png)
 
 ![alt text](Screen%20Shot%202022-01-04%20at%202.16.08%20PM%20(2).png)
 
